@@ -6,6 +6,15 @@ name = "pypi"
 [packages]
 flask = "==2.3.3"
 crawler = {editable = true, path = "."}
+requests = "*"
+python-dotenv = "*"
+pandas = "*"
+yfinance = "*"
+loguru = "*"
+tabulate = "*"
+jieba = "*"
+sqlalchemy = "*"
+celery = "*"
 
 [dev-packages]
 
