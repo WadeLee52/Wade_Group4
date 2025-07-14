@@ -6,8 +6,6 @@ import random
 from datetime import datetime, timedelta
 from crawler.mysqlcreate import upload_data_to_mysql_cnyes_headlines
 
-
-
 from crawler.worker import app  # Celery app 引入
 
 # Celery 任務註冊

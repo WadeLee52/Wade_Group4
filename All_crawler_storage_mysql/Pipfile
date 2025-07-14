@@ -15,6 +15,7 @@ tabulate = "*"
 jieba = "*"
 sqlalchemy = "*"
 celery = "*"
+pymysql = "*"
 
 [dev-packages]
 
